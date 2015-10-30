@@ -1,14 +1,9 @@
-# becoming-mean
-All the tips and tricks on how to become a MEAN stack developer.
+Read all the tips and tricks on how to become a MEAN stack developer.
+========================
 
-More plus more plus more
+Mean Stack Developer is very much in demand nowadays and command a very high salary.  I will explain to you bit by bit on how to start learning, coding and becoming a MEAN Stack Developer in no time.
 
-Yaya dub 
-Yaya dub
-Yaya dub
-Yaya dub
-Yaya dub
-Yaya dub
+---------------------- 
 
-Maine Maine Maine
-
+What is MEAN?
+-------------
